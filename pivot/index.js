@@ -1,3 +1,4 @@
+// 1.	Get pivot in balanced array.
 function equilibriumPoint(arr) {
   let i = 0,
     start = 0,
